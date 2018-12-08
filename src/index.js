@@ -696,4 +696,4 @@ piechart3D.draw = (chartId, _data, userConfig) => {
   }
 };
 
-module.exports = piechart3D;
+export default piechart3D;
