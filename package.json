@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lockround/animated-3d-pie-chart"
+    "url": "https://github.com/lockround/lockround-piechart"
   },
   "keywords": [
     "chart",
@@ -74,6 +74,6 @@
   "author": "lockround",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lockround/animated-3d-pie-chart/issues"
+    "url": "https://github.com/lockround/lockround-piechart/issues"
   }
 }
