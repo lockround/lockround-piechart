@@ -1,5 +1,5 @@
 {
-  "name": "@lockround/piechart",
+  "name": "lockround-piechart",
   "version": "0.0.5",
   "description": "Library for drawing nice looking pie/donate charts",
   "main": "lib/animated-3d-piechart.js",
